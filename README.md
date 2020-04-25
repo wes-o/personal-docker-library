@@ -17,6 +17,7 @@ Consider:
 ## Usage
 
 | Name                 | Includes |  
+| -------------------- | -------- |
 | `python-slim-buster` |  Python3, Postgres, Jupyter |  
 
 ```bash
