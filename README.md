@@ -1,7 +1,8 @@
 # personal-docker-library
 
-A collection of docker-images - that may be instatiated to run separate instructions. Create one, or many Docker container(s).
- :sunrise_over_mountains:  -> :balance_scale:  -> :notes:  
+A collection of docker-images - that may be instatiated to run separate instructions.  
+Create one, or many Docker container(s).
+  
 
 ## Description
 
@@ -89,3 +90,9 @@ docker run --rm -v "$PWD":/usr/src/project -w /usr/src/project pdflatex pdflatex
 ```
 
 Happy Docker-ing! :coffee:
+
+*Wes Oler, 2020*  
+
+|                                                            |
+|  --------------------------------------------------------  |
+|  :sunrise_over_mountains:  -> :balance_scale:  -> :notes:  |
